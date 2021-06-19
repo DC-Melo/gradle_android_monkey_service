@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: org.json.jar commons-cli-1.2.jar
+Main-Class: com.github.monkey.analyzer.Main
+

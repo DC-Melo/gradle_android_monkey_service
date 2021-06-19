@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: ddmlib.jar ddmuilib.jar commons-cli-1.2.jar
+Main-Class: com.github.monkey.runner.Main
+
